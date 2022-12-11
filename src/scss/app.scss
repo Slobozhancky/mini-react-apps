@@ -1,0 +1,22 @@
+@import "./buttons.scss";
+@import "./variables.scss";
+
+.App {
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    .counter_wrapper {
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+
+        border: 1px solid black;
+        border-radius: 5px;
+
+        .counter {
+            text-align: center;
+        }
+    }
+}
