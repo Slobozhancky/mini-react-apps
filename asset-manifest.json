@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mini-react-apps/static/css/main.ce990d57.css",
-    "main.js": "/mini-react-apps/static/js/main.ebcfdacf.js",
+    "main.css": "/mini-react-apps/static/css/main.2a260e90.css",
+    "main.js": "/mini-react-apps/static/js/main.700e1e81.js",
     "index.html": "/mini-react-apps/index.html",
-    "main.ce990d57.css.map": "/mini-react-apps/static/css/main.ce990d57.css.map",
-    "main.ebcfdacf.js.map": "/mini-react-apps/static/js/main.ebcfdacf.js.map"
+    "main.2a260e90.css.map": "/mini-react-apps/static/css/main.2a260e90.css.map",
+    "main.700e1e81.js.map": "/mini-react-apps/static/js/main.700e1e81.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce990d57.css",
-    "static/js/main.ebcfdacf.js"
+    "static/css/main.2a260e90.css",
+    "static/js/main.700e1e81.js"
   ]
 }
