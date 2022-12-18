@@ -1,0 +1,26 @@
+# List of users 
+
+1. Create a design for the app:
+    1. What does our app include?
+        1. input for users search 
+        2. List of users:
+            1. One user has (avatar, first_name, last_name, email and button that switch from plus to minus when user add to invasion list)
+        3. button for sending invitation that users adding 
+        4. When invitation sending, must show page, that show us how many people sending invitation
+2. Developing 
+    1. Stages of Developing
+        1. Create structure of project
+        2. Create components (app, user, loadingCustomers, status_page):
+            1. App has:
+                1. Input for search users:
+                    1. Search for user by (first_name, last_name, email)
+                2. List of users
+                3. button for sending invitation
+            2. User has:
+                1. avatar
+                2. first_name
+                3. last_name
+                4. button for switch plus to minus when users adding to invitation list
+            3. loadingCustomers: this preloading components that show for us status while users loading from server. This component needed Create into Skeleton
+            4. Show us how many people sending invitation
+            
